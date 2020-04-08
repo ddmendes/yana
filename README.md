@@ -1,2 +1,2 @@
-# yana
+# Yana
 Yet Another Note App
